@@ -1,0 +1,15 @@
+/Users/tunzale/Projects/Extentions-Struct-Nullable.Homework/Extentions-Struct-Nullable.Homework/bin/Debug/net6.0/Extentions-Struct-Nullable.Homework
+/Users/tunzale/Projects/Extentions-Struct-Nullable.Homework/Extentions-Struct-Nullable.Homework/bin/Debug/net6.0/Extentions-Struct-Nullable.Homework.deps.json
+/Users/tunzale/Projects/Extentions-Struct-Nullable.Homework/Extentions-Struct-Nullable.Homework/bin/Debug/net6.0/Extentions-Struct-Nullable.Homework.runtimeconfig.json
+/Users/tunzale/Projects/Extentions-Struct-Nullable.Homework/Extentions-Struct-Nullable.Homework/bin/Debug/net6.0/Extentions-Struct-Nullable.Homework.dll
+/Users/tunzale/Projects/Extentions-Struct-Nullable.Homework/Extentions-Struct-Nullable.Homework/bin/Debug/net6.0/Extentions-Struct-Nullable.Homework.pdb
+/Users/tunzale/Projects/Extentions-Struct-Nullable.Homework/Extentions-Struct-Nullable.Homework/obj/Debug/net6.0/Extentions-Struct-Nullable.Homework.csproj.AssemblyReference.cache
+/Users/tunzale/Projects/Extentions-Struct-Nullable.Homework/Extentions-Struct-Nullable.Homework/obj/Debug/net6.0/Extentions-Struct-Nullable.Homework.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tunzale/Projects/Extentions-Struct-Nullable.Homework/Extentions-Struct-Nullable.Homework/obj/Debug/net6.0/Extentions-Struct-Nullable.Homework.AssemblyInfoInputs.cache
+/Users/tunzale/Projects/Extentions-Struct-Nullable.Homework/Extentions-Struct-Nullable.Homework/obj/Debug/net6.0/Extentions-Struct-Nullable.Homework.AssemblyInfo.cs
+/Users/tunzale/Projects/Extentions-Struct-Nullable.Homework/Extentions-Struct-Nullable.Homework/obj/Debug/net6.0/Extentions-Struct-Nullable.Homework.csproj.CoreCompileInputs.cache
+/Users/tunzale/Projects/Extentions-Struct-Nullable.Homework/Extentions-Struct-Nullable.Homework/obj/Debug/net6.0/Extentions-Struct-Nullable.Homework.dll
+/Users/tunzale/Projects/Extentions-Struct-Nullable.Homework/Extentions-Struct-Nullable.Homework/obj/Debug/net6.0/refint/Extentions-Struct-Nullable.Homework.dll
+/Users/tunzale/Projects/Extentions-Struct-Nullable.Homework/Extentions-Struct-Nullable.Homework/obj/Debug/net6.0/Extentions-Struct-Nullable.Homework.pdb
+/Users/tunzale/Projects/Extentions-Struct-Nullable.Homework/Extentions-Struct-Nullable.Homework/obj/Debug/net6.0/Extentions-Struct-Nullable.Homework.genruntimeconfig.cache
+/Users/tunzale/Projects/Extentions-Struct-Nullable.Homework/Extentions-Struct-Nullable.Homework/obj/Debug/net6.0/ref/Extentions-Struct-Nullable.Homework.dll

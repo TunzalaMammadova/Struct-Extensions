@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{E9C05D00-9AFC-46BC-A75A-0DA8B45B5B0A}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Extentions-Sturct-Nullable.Practice/Program.cs">
+    <Files>
+      <File FileName="Extentions-Sturct-Nullable.Practice/Program.cs" Line="81" Column="8" />
+      <File FileName="Extentions-Sturct-Nullable.Practice/User.cs" Line="1" Column="1" />
+      <File FileName="Extentions-Sturct-Nullable.Practice/Helpers/Extentions/BaseExtentions.cs" Line="28" Column="9" />
+      <File FileName="Extentions-Sturct-Nullable.Practice/Person.cs" Line="19" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Extentions-Sturct-Nullable.Practice" expanded="True">
+            <Node name="Extentions-Sturct-Nullable.Practice">
+              <Node name="Helpers" expanded="True">
+                <Node name="Extentions" expanded="True" />
+              </Node>
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Extentions-Sturct-Nullable.Practice PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

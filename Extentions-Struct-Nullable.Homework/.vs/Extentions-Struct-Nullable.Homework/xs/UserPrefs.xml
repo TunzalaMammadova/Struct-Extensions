@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{22F5E1FF-9591-41EC-A80C-FCAC0C594B92}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Extentions-Struct-Nullable.Homework PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Extentions-Struct-Nullable.Homework/Helpers/Extentions/BaseExtentions.cs">
+    <Files>
+      <File FileName="Extentions-Struct-Nullable.Homework/Program.cs" Line="21" Column="18" />
+      <File FileName="Extentions-Struct-Nullable.Homework/Helpers/Extentions/BaseExtentions.cs" Line="29" Column="1" />
+      <File FileName="Extentions-Struct-Nullable.Homework/Helpers/Extentions/PersonExtentions.cs" Line="28" Column="10" />
+      <File FileName="Extentions-Struct-Nullable.Homework/Person.cs" Line="10" Column="6" />
+      <File FileName="Extentions-Struct-Nullable.Homework/BaseEntity.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Extentions-Struct-Nullable.Homework" expanded="True">
+            <Node name="Extentions-Struct-Nullable.Homework">
+              <Node name="Helpers" expanded="True">
+                <Node name="Extentions" expanded="True">
+                  <Node name="BaseExtentions.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

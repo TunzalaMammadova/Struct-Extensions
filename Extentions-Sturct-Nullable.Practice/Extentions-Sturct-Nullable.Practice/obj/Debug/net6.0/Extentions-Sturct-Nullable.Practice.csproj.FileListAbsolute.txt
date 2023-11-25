@@ -1,0 +1,15 @@
+/Users/tunzale/Projects/Extentions-Sturct-Nullable.Practice/Extentions-Sturct-Nullable.Practice/bin/Debug/net6.0/Extentions-Sturct-Nullable.Practice
+/Users/tunzale/Projects/Extentions-Sturct-Nullable.Practice/Extentions-Sturct-Nullable.Practice/bin/Debug/net6.0/Extentions-Sturct-Nullable.Practice.deps.json
+/Users/tunzale/Projects/Extentions-Sturct-Nullable.Practice/Extentions-Sturct-Nullable.Practice/bin/Debug/net6.0/Extentions-Sturct-Nullable.Practice.runtimeconfig.json
+/Users/tunzale/Projects/Extentions-Sturct-Nullable.Practice/Extentions-Sturct-Nullable.Practice/bin/Debug/net6.0/Extentions-Sturct-Nullable.Practice.dll
+/Users/tunzale/Projects/Extentions-Sturct-Nullable.Practice/Extentions-Sturct-Nullable.Practice/bin/Debug/net6.0/Extentions-Sturct-Nullable.Practice.pdb
+/Users/tunzale/Projects/Extentions-Sturct-Nullable.Practice/Extentions-Sturct-Nullable.Practice/obj/Debug/net6.0/Extentions-Sturct-Nullable.Practice.csproj.AssemblyReference.cache
+/Users/tunzale/Projects/Extentions-Sturct-Nullable.Practice/Extentions-Sturct-Nullable.Practice/obj/Debug/net6.0/Extentions-Sturct-Nullable.Practice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tunzale/Projects/Extentions-Sturct-Nullable.Practice/Extentions-Sturct-Nullable.Practice/obj/Debug/net6.0/Extentions-Sturct-Nullable.Practice.AssemblyInfoInputs.cache
+/Users/tunzale/Projects/Extentions-Sturct-Nullable.Practice/Extentions-Sturct-Nullable.Practice/obj/Debug/net6.0/Extentions-Sturct-Nullable.Practice.AssemblyInfo.cs
+/Users/tunzale/Projects/Extentions-Sturct-Nullable.Practice/Extentions-Sturct-Nullable.Practice/obj/Debug/net6.0/Extentions-Sturct-Nullable.Practice.csproj.CoreCompileInputs.cache
+/Users/tunzale/Projects/Extentions-Sturct-Nullable.Practice/Extentions-Sturct-Nullable.Practice/obj/Debug/net6.0/Extentions-Sturct-Nullable.Practice.dll
+/Users/tunzale/Projects/Extentions-Sturct-Nullable.Practice/Extentions-Sturct-Nullable.Practice/obj/Debug/net6.0/refint/Extentions-Sturct-Nullable.Practice.dll
+/Users/tunzale/Projects/Extentions-Sturct-Nullable.Practice/Extentions-Sturct-Nullable.Practice/obj/Debug/net6.0/Extentions-Sturct-Nullable.Practice.pdb
+/Users/tunzale/Projects/Extentions-Sturct-Nullable.Practice/Extentions-Sturct-Nullable.Practice/obj/Debug/net6.0/Extentions-Sturct-Nullable.Practice.genruntimeconfig.cache
+/Users/tunzale/Projects/Extentions-Sturct-Nullable.Practice/Extentions-Sturct-Nullable.Practice/obj/Debug/net6.0/ref/Extentions-Sturct-Nullable.Practice.dll

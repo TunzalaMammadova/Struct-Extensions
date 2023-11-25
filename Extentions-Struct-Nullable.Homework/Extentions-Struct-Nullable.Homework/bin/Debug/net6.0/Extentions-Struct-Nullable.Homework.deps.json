@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Extentions-Struct-Nullable.Homework/1.0.0": {
+        "runtime": {
+          "Extentions-Struct-Nullable.Homework.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Extentions-Struct-Nullable.Homework/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
